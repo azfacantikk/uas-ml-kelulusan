@@ -2,7 +2,7 @@
 
 **Nama:** Na'ilah Azfa Zarqarida
 **NIM:** A11.2024.15549
-**Kelompok:** A11.4401 & A11.4410
+**Kelompok:** A11.4401 
 **Dosen:** Junta Zeniarja, M.Kom
 **Mata Kuliah:** Pembelajaran Mesin (Machine Learning)
 **Semester:** Genap 2025/2026
